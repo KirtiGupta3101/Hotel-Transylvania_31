@@ -1,2 +1,24 @@
 # Hotel-Transylvania_31
-Hotel Transylvania is hotel management system ,which are under control and managed by Dracula and vampire /Monsters.  
+A Hotel booking site themed on vampire movie series " Hotel Transylvania ". Hotel Transylvania is place where monsters and their families can live it up and no humans are allowed.One special weekend, Dracula (Adam Sandler) has invited all his best friends – Frankenstein and his wife, the Mummy, the Invisible Man, the Werewolf family, and more – to celebra1e his beloved daughter Mavis’s (Selena Gomez) 118th birthday.
+
+# Team Name
+INNOVATORS
+
+## Tech-Stack
+JavaScript,
+HTML, Bootstrap
+SCSS, EJS
+
+# Backend
+Mysql,
+Nodejs
+
+# Features
+
+Login/sign in
+Category
+Choose room according to their choice
+Status Track
+Booking
+Contact Us
+Seperate Admin and User Page with different Control

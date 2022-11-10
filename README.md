@@ -4,12 +4,12 @@ A Hotel booking site themed on vampire movie series " Hotel Transylvania ". Hote
 # Team Name
 INNOVATORS
 
-## Tech-Stack
+# Tech-Stack
 JavaScript,
 HTML, Bootstrap
 SCSS, EJS
 
-# Backend
+## Backend
 Mysql,
 Nodejs
 

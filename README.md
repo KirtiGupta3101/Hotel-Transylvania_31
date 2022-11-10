@@ -15,10 +15,10 @@ Nodejs
 
 # Features
 
-## Login/sign in
-## Category
-## Choose room according to their choice
-## Status Track
-## Booking
-## Contact Us
-## Seperate Admin and User Page with different Control
+<br/>Login/sign in
+<br/>Category
+<br/>Choose room according to their choice
+<br/>Status Track
+<br/>Booking
+<br/>Contact Us
+<br/>Seperate Admin and User Page with different Control

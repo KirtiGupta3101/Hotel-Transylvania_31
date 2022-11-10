@@ -14,7 +14,6 @@ Mysql,
 Nodejs
 
 # Features
-
 <br/>Login/sign in
 <br/>Category
 <br/>Choose room according to their choice
